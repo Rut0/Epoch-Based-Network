@@ -10,6 +10,9 @@ namespace EpochServer
     {
         static void Main(string[] args)
         {
+            var server = new EpochServer();
+            server.Start();
+            Console.ReadLine();
         }
     }
 }

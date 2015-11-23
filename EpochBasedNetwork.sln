@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpochBasedNetwork", "EpochBasedNetwork\EpochBasedNetwork.csproj", "{260A0272-3ECF-453E-B322-5201437B40D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpochServer", "EpochServer\EpochServer.csproj", "{DF083AC2-1468-4501-A846-3E128EE75A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpochClient", "EpochClient\EpochClient.csproj", "{477C2E1B-A63F-42B6-9FDE-59650215F29F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{260A0272-3ECF-453E-B322-5201437B40D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{260A0272-3ECF-453E-B322-5201437B40D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{260A0272-3ECF-453E-B322-5201437B40D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{260A0272-3ECF-453E-B322-5201437B40D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF083AC2-1468-4501-A846-3E128EE75A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF083AC2-1468-4501-A846-3E128EE75A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF083AC2-1468-4501-A846-3E128EE75A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF083AC2-1468-4501-A846-3E128EE75A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477C2E1B-A63F-42B6-9FDE-59650215F29F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477C2E1B-A63F-42B6-9FDE-59650215F29F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477C2E1B-A63F-42B6-9FDE-59650215F29F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477C2E1B-A63F-42B6-9FDE-59650215F29F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

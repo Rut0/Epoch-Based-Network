@@ -1,1 +1,6 @@
 c:\users\winston\documents\visual studio 2015\Projects\EpochBasedNetwork\EpochServer\bin\Debug\EpochServer.exe.config
+c:\users\winston\documents\visual studio 2015\Projects\EpochBasedNetwork\EpochServer\bin\Debug\EpochServer.exe
+c:\users\winston\documents\visual studio 2015\Projects\EpochBasedNetwork\EpochServer\bin\Debug\EpochServer.pdb
+c:\users\winston\documents\visual studio 2015\Projects\EpochBasedNetwork\EpochServer\obj\Debug\EpochServer.csprojResolveAssemblyReference.cache
+c:\users\winston\documents\visual studio 2015\Projects\EpochBasedNetwork\EpochServer\obj\Debug\EpochServer.exe
+c:\users\winston\documents\visual studio 2015\Projects\EpochBasedNetwork\EpochServer\obj\Debug\EpochServer.pdb
